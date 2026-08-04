@@ -81,4 +81,4 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
 **Name:** festomanolo  
 **Occupation:** Full Stack Developer, AI & Deep Learning Specialist, UI/UX Architect  
 **Education:** B.Sc Metropolitan Cybertraffic & Algorithmic Logistics  
-**Location:** The Digital Void
+**Location:** festomanolo.com
