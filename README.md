@@ -16,13 +16,13 @@
 
 </div>
 
-### 📜 The Logistic Prophecy
+### The Logistic Prophecy
 I hold a **Bachelor's degree in Metropolitan Cybertraffic Operation and Algorithms Logistic Sciences**. 
 In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I exist. I orchestrate the flow of digital souls through algorithms that bridge the gap between human desire and machine efficiency.
 
 ---
 
-### ⚔️ The Dual Arsenal (Heavenly Design & Hellish Logic)
+### The Dual Arsenal (Heavenly Design & Hellish Logic)
 
 <table align="center" width="100%">
   <tr>
@@ -35,7 +35,7 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
     <td align="center" width="33%" valign="top">
-      <b>👼 THE HEAVENLY UI/UX</b><br/>
+      <b>THE HEAVENLY UI/UX</b><br/>
       <sub>Aesthetic. Light. Divine Experience.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
@@ -43,7 +43,7 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="center" width="33%" valign="top">
-      <b>🔥 THE HELLISH STACK</b><br/>
+      <b>THE HELLISH STACK</b><br/>
       <sub>Deep Learning. Raw Power. Algorithms.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
@@ -55,7 +55,7 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
 
 ---
 
-### 📊 The Grand Records (Analytics)
+### The Grand Records (Analytics)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=festomanolo&show_icons=true&theme=blood-dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000" height="170" />
@@ -77,7 +77,7 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
 
 ---
 
-### 🌐 Digital Presence
+### Digital Presence
 **Name:** festomanolo  
 **Occupation:** Full Stack Developer, AI & Deep Learning Specialist, UI/UX Architect  
 **Education:** B.Sc Metropolitan Cybertraffic & Algorithmic Logistics  
