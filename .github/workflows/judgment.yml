@@ -1,0 +1,42 @@
+name: The Last Judgment
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # twice a day
+  workflow_dispatch:           # run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "judgment/**"
+      - ".github/workflows/judgment.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: last-judgment
+  cancel-in-progress: true
+
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Summon the year
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python judgment/generate.py --user "${{ github.repository_owner }}" --out assets/judgment.svg
+
+      - name: Commit the judgment
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/judgment.svg
+          git diff --cached --quiet && echo "Nothing new to judge." && exit 0
+          git commit -m "chore: the last judgment [skip ci]"
+          git push

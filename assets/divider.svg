@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 26" width="900" height="26" role="presentation">
+<style>@keyframes run{0%{transform:translateX(-120px)}100%{transform:translateX(900px)}}.run{animation:run 5s cubic-bezier(.6,0,.4,1) infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#FFD700" stop-opacity="0"/><stop offset=".45" stop-color="#FFD700"/><stop offset=".55" stop-color="#FF0000"/><stop offset="1" stop-color="#FF0000" stop-opacity="0"/></linearGradient>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="m"><rect x="0" y="12.0" width="900" height="2" fill="#fff"/></mask>
+</defs>
+<rect x="0" y="12.5" width="900" height="1" fill="url(#l)"/>
+<g mask="url(#m)"><rect class="run" x="0" y="12.0" width="120" height="2" fill="url(#g)"/></g>
+<rect x="444.0" y="7.0" width="12" height="12" fill="#000" stroke="#FFD700" stroke-width="1.2" transform="rotate(45 450.0 13.0)"/>
+<rect x="447.5" y="10.5" width="5" height="5" fill="#FF0000" transform="rotate(45 450.0 13.0)"/>
+<rect x="410.0" y="11.0" width="4" height="4" fill="#FFD700" transform="rotate(45 412.0 13.0)"/>
+<rect x="486.0" y="11.0" width="4" height="4" fill="#FF0000" transform="rotate(45 488.0 13.0)"/>
+</svg>

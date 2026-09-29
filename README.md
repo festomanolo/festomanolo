@@ -1,5 +1,11 @@
 <div align="center">
 
+  <a href="https://festomanolo.com">
+    <img src="./assets/hero.svg" width="100%" alt="Festomanolo, between Heaven (seamless UI) and Hell (complex backend logic)" />
+  </a>
+
+  <br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=24&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=800&height=50&lines=I+AM+FESTOMANOLO;THE+PUNISHED+GOD+OF+UI-UX;ARCHITECT+OF+HEAVEN+AND+HELL;MASTER+OF+METROPOLITAN+CYBERTRAFFIC" alt="Festomanolo - The God of UI/UX" />
   </a>
@@ -7,11 +13,11 @@
   <br/>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+    <img src="./assets/divider.svg" width="100%">
     <br>
     <font size="5"><b>"I believe Darkness was not created, it was there before our creation."</b></font>
     <br>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+    <img src="./assets/divider.svg" width="100%">
   </p>
 
 </div>
@@ -20,7 +26,7 @@
 I hold a **Bachelor's degree in Metropolitan Cybertraffic Operation and Algorithms Logistic Sciences**. 
 In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I exist. I orchestrate the flow of digital souls through algorithms that bridge the gap between human desire and machine efficiency.
 
----
+<img src="./assets/divider.svg" width="100%">
 
 ### The Dual Arsenal (Heavenly Design & Hellish Logic)
 
@@ -53,7 +59,7 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%">
 
 ### The Grand Records (Analytics)
 
@@ -75,10 +81,20 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
   <img src="https://komarev.com/ghpvc/?username=festomanolo&style=for-the-badge&color=7b0000&label=DEITIES+WATCHING" alt="Festomanolo Visitor Counter" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%">
+
+### The Last Judgment
+
+<div align="center">
+  <img src="./assets/judgment.svg" width="100%" alt="The Last Judgment: my contribution graph as a boss battle. A year of contributions is judged at a golden gate until The Darkness falls." />
+  <br/>
+  <sub>Every contribution of the last year is a sin summoned by The Darkness. Each one is judged at the gate, turned to gold, and fired back as light. Regenerated twice a day from my live contribution graph.</sub>
+</div>
+
+<img src="./assets/divider.svg" width="100%">
 
 ### Digital Presence
 **Name:** festomanolo  
 **Occupation:** Full Stack Developer, AI & Deep Learning Specialist, UI/UX Architect  
 **Education:** B.Sc Metropolitan Cybertraffic & Algorithmic Logistics  
-**Location:** festomanolo.com
+**Location:** [festomanolo.com](https://festomanolo.com)
