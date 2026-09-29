@@ -1,4 +1,4 @@
-name: The Last Judgment
+name: Ascension
 
 on:
   schedule:
@@ -7,18 +7,18 @@ on:
   push:
     branches: [main]
     paths:
-      - "judgment/**"
-      - ".github/workflows/judgment.yml"
+      - "forge/**"
+      - ".github/workflows/ascension.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: last-judgment
+  group: ascension
   cancel-in-progress: true
 
 jobs:
-  judge:
+  ascend:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -27,16 +27,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Summon the year
+      - name: Raise the city from your year
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python judgment/generate.py --user "${{ github.repository_owner }}" --out assets/judgment.svg
+        run: |
+          python forge/ascension.py --user "${{ github.repository_owner }}" --out assets/ascension.svg
+          python forge/arsenal.py
+          python forge/brand.py
 
-      - name: Commit the judgment
+      - name: Commit the pilgrimage
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/judgment.svg
-          git diff --cached --quiet && echo "Nothing new to judge." && exit 0
-          git commit -m "chore: the last judgment [skip ci]"
+          git add assets/
+          git diff --cached --quiet && echo "Nothing new to ascend." && exit 0
+          git commit -m "chore: ascension [skip ci]"
           git push

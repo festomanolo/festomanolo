@@ -30,34 +30,9 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
 
 ### The Dual Arsenal (Heavenly Design & Hellish Logic)
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <b>CURSED of KNOWLEDGE</b><br/>
-      <sub>Resonance. Effort. Undying Passion.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>THE HEAVENLY UI/UX</b><br/>
-      <sub>Aesthetic. Light. Divine Experience.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>THE HELLISH STACK</b><br/>
-      <sub>Deep Learning. Raw Power. Algorithms.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/arsenal.svg" width="100%" alt="CURSED of KNOWLEDGE (Resonance. Effort. Undying Passion.): Node.js, Docker, Linux. THE HEAVENLY UI/UX (Aesthetic. Light. Divine Experience.): Figma, Adobe XD, Tailwind. THE HELLISH STACK (Deep Learning. Raw Power. Algorithms.): Python, TensorFlow, PyTorch." />
+</div>
 
 <img src="./assets/divider.svg" width="100%">
 
@@ -83,12 +58,12 @@ In the intersection of Heaven (Seamless UI) and Hell (Complex Backend Logic), I 
 
 <img src="./assets/divider.svg" width="100%">
 
-### The Last Judgment
+### Ascension
 
 <div align="center">
-  <img src="./assets/judgment.svg" width="100%" alt="The Last Judgment: my contribution graph as a boss battle. A year of contributions is judged at a golden gate until The Darkness falls." />
+  <img src="./assets/ascension.svg" width="100%" alt="Ascension: my last year on GitHub as a gothic city over a sea of lava. Each week is a tower, each window a day. The Punished God crosses every rooftop, gathers every contribution as a soul, slays the demons of empty weeks and defeats The Darkness at Heaven's Gate." />
   <br/>
-  <sub>Every contribution of the last year is a sin summoned by The Darkness. Each one is judged at the gate, turned to gold, and fired back as light. Regenerated twice a day from my live contribution graph.</sub>
+  <sub>My last year, rebuilt as a city over the abyss. Every tower is a week and every window a day, lit gold by the work shipped. The Punished God crosses it roof by roof, gathers each contribution as a soul, cuts down the demons waiting in the empty weeks, and faces The Darkness at Heaven's Gate. Rebuilt twice a day from my live contribution graph.</sub>
 </div>
 
 <img src="./assets/divider.svg" width="100%">
