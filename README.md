@@ -1,6 +1,12 @@
 <div align="center">
 
   <a href="https://festomanolo.com">
+    <img src="./assets/sigil.svg" width="100%" alt="The festomanolo sigil, built block by block by a swarm of drone bots" />
+  </a>
+
+  <br/>
+
+  <a href="https://festomanolo.com">
     <img src="./assets/hero.svg" width="100%" alt="Festomanolo, between Heaven (seamless UI) and Hell (complex backend logic)" />
   </a>
 
